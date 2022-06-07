@@ -24,6 +24,6 @@
 # E um pouco da minha atividade
 
 <div align="center">
-  <img height="180em" width:"50%" src="https://github-readme-stats.vercel.app/api?username=golldans&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" width:"50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golldans&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" width:"50%" src="https://github-readme-stats.vercel.app/api?username=golldans&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width:"50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golldans&layout=compact&langs_count=7&theme=onedark"/>
 </div>
